@@ -1,5 +1,5 @@
-//menu.h
+//menu.c
 
-#include <stdio.h>
+#include <include.h> 
 
 void displayMenu();
